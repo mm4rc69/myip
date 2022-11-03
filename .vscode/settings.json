@@ -1,0 +1,24 @@
+{
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "json.schemas": [
+
+    
+    ],
+    "workbench.colorCustomizations": {
+          "activityBar.inactiveForeground": "#7c6707",
+          "activityBar.foreground":   "#e9ac04",
+          "activityBar.border":"#7c6707",
+          "activityBarBadge.foreground": "#060330",
+          "activityBarBadge.background": "#bb920a"
+    },
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    }
+    
+}

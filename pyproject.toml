@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "myip"
+version = "0.1.0"
+description = "GTK4 application to display your IP information"
+authors = ["Marc MICHEL <marc.michel@mailfence.com>"]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+PyGObject = "^3.42.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
